@@ -11,3 +11,4 @@ for i in range(1, 10):
     mul = mul * i
 print("Mul of first 10 numbers :", mul)
 print('updated data')
+print(' vivek bhai please check')
