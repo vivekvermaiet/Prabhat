@@ -11,3 +11,6 @@ for i in range(1, 10):
     mul = mul * i
 print("Mul of first 10 numbers :", mul)
 print('updated data')
+print('updated data')
+print(95/10)
+print('Matherchod hai sala git hub')
